@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.2.1.6466
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ellat", "Ellat\Ellat.csproj", "{B31B7C63-9806-4185-B394-9AC34326E791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31B7C63-9806-4185-B394-9AC34326E791}.Debug|x86.Build.0 = Debug|x86
+		{B31B7C63-9806-4185-B394-9AC34326E791}.Debug|x86.ActiveCfg = Debug|x86
+		{B31B7C63-9806-4185-B394-9AC34326E791}.Release|x86.Build.0 = Release|x86
+		{B31B7C63-9806-4185-B394-9AC34326E791}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
